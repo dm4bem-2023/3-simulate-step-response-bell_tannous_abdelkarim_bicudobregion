@@ -89,10 +89,13 @@ The temperature source input is vector b, of length m, containing all the known 
 Vector f is a vector of length n containing all the known flow rates at each node.
 
 The following equations will then be used to solve the model:
-
+\left\{
+\begin{alignedat}{3}
 $e = -A\theta + b$\
 $q = G\cdot e$\
 $C\theta’ = A^T \cdot q + f$\
+\end{alignedat}
+\right.
 $\downarrow$\
 $G^-1 \cdot q + A\theta = b$\
 $-A^T \cdot q + sC\theta = f$\
