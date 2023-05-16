@@ -97,8 +97,11 @@ $C\theta’ = A^T \cdot q + f$\
 Then, it is known that:
 
 $G^-1 \cdot q + A\theta = b$\
-$-A^T \cdot q + sC\theta = f$\
+$-A^T \cdot q + sC\theta = f$
 
+Keeping this is mind, the following matrix equation is written:
+
+Finally, 
 **$C \cdot \theta’$ = $-A^TGA\theta$ + $A^TGb + f$**
 
 
