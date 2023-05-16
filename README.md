@@ -100,7 +100,19 @@ $G^-1 \cdot q + A\theta = b$\
 $-A^T \cdot q + sC\theta = f$
 
 Keeping this is mind, the following matrix equation is written:\
-\noindent
+\begin{pmatrix}
+G^-1 & A\\
+-A^T & sC
+\end{pmatrix}
+\begin{pmatrix}
+q\\
+\theta
+\end{pmatrix}
+=
+\begin{pmatrix}
+b\\
+f
+\end{pmatrix}
 $\begin{pmatrix}
 G^-1 & A\\
 -A^T & sC
