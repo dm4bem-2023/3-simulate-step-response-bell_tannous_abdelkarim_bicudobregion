@@ -101,11 +101,13 @@ $-A^T \cdot q + sC\theta = f$
 
 Keeping this is mind, the following matrix equation is written:\
 $$
+
 \begin{bmatrix}
-G^-1  A\\
--A^T sC
+G^-1 & A\\
+-A^T & sC
 \end{bmatrix}
 $$
+
 $$
 \begin{bmatrix}
 q\\
