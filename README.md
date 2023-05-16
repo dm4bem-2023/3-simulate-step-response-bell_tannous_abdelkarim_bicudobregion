@@ -105,12 +105,12 @@ $$\begin{bmatrix}
 G^-1 & A\\
 -A^T & sC
 \end{bmatrix}$$ 
-
+\quad
 $$\begin{bmatrix}
 q\\
 theta
 \end{bmatrix}$$ 
-
+\quad
 $$\begin{bmatrix}
 b\\
 f
