@@ -100,18 +100,16 @@ $G^-1 \cdot q + A\theta = b$\
 $-A^T \cdot q + sC\theta = f$
 
 Keeping this is mind, the following matrix equation is written:\
-\evalto \begin{pmatrix} 1 & 0 \\ 1 & 1 \\ -1 & 2 \end{pmatrix} 
-  \begin{pmatrix} 1 & 1 & 0 \\ 1 & 1 & -1 \end{pmatrix} \to \begin{pmatrix} 1 & 1 & 0 \\ 2 & 2 & -1 \\ 1 & 1 & -2 \end{pmatrix}
-\evalto 
 \begin{bmatrix}
 G^-1 & A\\
 -A^T & sC
 \end{bmatrix}
-\to
+
 \begin{bmatrix}
 q\\
 theta
 \end{bmatrix}
+=
 \begin{bmatrix}
 b\\
 f
