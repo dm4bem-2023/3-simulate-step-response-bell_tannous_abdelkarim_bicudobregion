@@ -100,7 +100,7 @@ $G^-1 \cdot q + A\theta = b$\
 $-A^T \cdot q + sC\theta = f$
 
 Keeping this is mind, the following matrix equation is written:
-
+$$
 \begin{bmatrix}
 G^-1  A\\
 -A^T sC
@@ -109,11 +109,14 @@ G^-1  A\\
 q\\
 \theta
 \end{bmatrix}
+$$
 
+$$
 \begin{bmatrix}
 b\\
 f
 \end{bmatrix}
+$$
 
 Finally, 
 **$C \cdot \theta’$ = $-A^TGA\theta$ + $A^TGb + f$**
