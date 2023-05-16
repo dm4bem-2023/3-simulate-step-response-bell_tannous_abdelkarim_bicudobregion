@@ -101,21 +101,21 @@ $-A^T \cdot q + sC\theta = f$
 
 Keeping this is mind, the following matrix equation is written:\
 
-$\begin{bmatrix}
+$$\begin{bmatrix}
 G^-1 & A\\
 -A^T & sC
-\end{bmatrix}$
+\end{bmatrix}$$
 *
-$\begin{bmatrix}
+$$\begin{bmatrix}
 q\\
 theta
-\end{bmatrix}$
+\end{bmatrix}$$
 
 =
-$\begin{bmatrix}
+$$\begin{bmatrix}
 b\\
 f
-\end{bmatrix}$
+\end{bmatrix}$$
 
 
 Finally, 
