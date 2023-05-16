@@ -94,7 +94,7 @@ $e = -A\theta + b$\
 $q = G\cdot e$\
 $C\theta’ = A^T \cdot q + f$\
 $\downarrow$\
-$G^(-1) \cdot q + A\theta = b$\
+$G^-1 \cdot q + A\theta = b$\
 $-A^T \cdot q + sC\theta = f$\
 $\downarrow$
 
