@@ -107,13 +107,13 @@ G^-1 & A\\
 \end{bmatrix} \right ]\left [ \begin{bmatrix}
 q\\
 \theta
-\end{bmatrix} \right ]= \begin{bmatrix}
+\end{bmatrix} \right ]= \left [ \begin{bmatrix}
 b\\
 f
-\end{bmatrix} 
+\end{bmatrix} \right ]
 
 
-$$\left \begin{bmatrix}
+\left \begin{bmatrix}
 G^-1 & A\\
 -A^T & sC
 \end{bmatrix}
