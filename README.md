@@ -143,6 +143,7 @@ b\\
 f
 \end{bmatrix}
 $$
+<img src="CodeCogsEqn.png" height = 250px width = 165px>\
 
 Finally,\
 **$C \cdot \theta’$ = $-A^TGA\theta$ + $A^TGb + f$**
