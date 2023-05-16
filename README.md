@@ -105,7 +105,7 @@ $$\begin{bmatrix}
 G^-1 & A\\
 -A^T & sC
 \end{bmatrix}$$
-*
+
 $$\begin{bmatrix}
 q\\
 theta
