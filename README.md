@@ -101,26 +101,18 @@ $-A^T \cdot q + sC\theta = f$
 
 Keeping this is mind, the following matrix equation is written:\
 
-$$
-\begin{bmatrix}
+$\begin{pmatrix}
 G^-1 & A\\
 -A^T & sC
-\end{bmatrix}
-$$
-
-$$
-\begin{bmatrix}
+\end{pmatrix}$
+\begin{pmatrix}
 q\\
 \theta
-\end{bmatrix}
-$$
-
-$$
+\end{pmatrix}$
 \begin{bmatrix}
 b\\
 f
-\end{bmatrix}
-$$
+\end{bmatrix}$
 
 Finally, 
 **$C \cdot \theta’$ = $-A^TGA\theta$ + $A^TGb + f$**
