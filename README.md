@@ -23,8 +23,10 @@ Boundary conditions
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - The thermal capacity of the windows, the convective heat transfer through the windows, as well as any radiant heat exchange between the walls themselves and between the windows and the walls were neglected
 - The door between the toilet and the office room is open 
-- The windows and the entrance’ door were closed during the simulation so the door is considered to be part of the wall, but the window is still taken separately
+- The windows and the entrance’ door were closed during the simulation so the door is considered to be part of the wall, but the window is still taken separately.
 - It is assumed the sun is to the upper left hand corner of the floorplan, and so the sun is incident only on the upper and left hand walls
+- The right hand wall and the section of the lower wall bordering the right hand room are treated as one unit as there is no incident sun
+- Flow through the inner wall is neglected
 - This apartment is thermally isolated so there is no heat transfer through the floor or ceiling
 - The indoor air’s temperature is homogenous
 - The heat transfer is linear
