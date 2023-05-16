@@ -115,9 +115,9 @@ $$\begin{bmatrix}
 b\\
 f
 \end{bmatrix}$$
-
-<img src="eq.png" height = 100px width = 175px>\
-
+<p align="center">
+<img src="eq.png" height = 100px width = 175px />
+</p>
 Finally, 
 **$C \cdot \theta’$ = $-A^TGA\theta$ + $A^TGb + f$**
 
