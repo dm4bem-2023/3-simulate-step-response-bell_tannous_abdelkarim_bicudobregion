@@ -100,31 +100,24 @@ $G^-1 \cdot q + A\theta = b$\
 $-A^T \cdot q + sC\theta = f$
 
 Keeping this is mind, the following matrix equation is written:\
-\begin{pmatrix}
+
+\begin{array}
 G^-1 & A\\
 -A^T & sC
-\end{pmatrix}
-\begin{pmatrix}
+\end{array}
+\right)=
+\left(
+\begin{array}
 q\\
 \theta
-\end{pmatrix}
-=
-\begin{pmatrix}
+\end{array}
+\right)
+\left(
+\begin{array}
 b\\
 f
-\end{pmatrix}
-$\begin{pmatrix}
-G^-1 & A\\
--A^T & sC
-\end{pmatrix}$
-\begin{pmatrix}
-q\\
-\theta
-\end{pmatrix}$
-\begin{bmatrix}
-b\\
-f
-\end{bmatrix}$
+\end{array}
+\right)
 
 Finally, 
 **$C \cdot \theta’$ = $-A^TGA\theta$ + $A^TGb + f$**
