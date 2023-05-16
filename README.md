@@ -99,7 +99,8 @@ Then, it is known that:
 $G^-1 \cdot q + A\theta = b$\
 $-A^T \cdot q + sC\theta = f$
 
-Keeping this is mind, the following matrix equation is written:
+Keeping this is mind, the following matrix equation is written:\
+
 $\begin{bmatrix}
 G^-1 & A\\
 -A^T & sC
@@ -108,7 +109,7 @@ G^-1 & A\\
 $\begin{bmatrix}
 q\\
 theta
-\end{bmatrix}$
+\end{bmatrix} $
 =
 $\begin{bmatrix}
 b\\
