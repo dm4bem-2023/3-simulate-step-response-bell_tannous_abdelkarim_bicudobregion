@@ -128,9 +128,19 @@ b\\
 f
 \end{bmatrix}$$
 
-<p align="center">
-<img src="eq.png" height = 100px width = 175px />
-</p>
+\begin{bmatrix}
+G^-1 & A\\
+-A^T & sC
+\end{bmatrix}
+$$\begin{bmatrix}
+q\\
+\theta
+\end{bmatrix}$$
+=   
+\begin{bmatrix}
+b\\
+f
+\end{bmatrix} 
 
 Finally,\
 **$C \cdot \theta’$ = $-A^TGA\theta$ + $A^TGb + f$**
