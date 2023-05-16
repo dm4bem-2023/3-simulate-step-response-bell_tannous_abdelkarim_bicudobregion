@@ -35,7 +35,7 @@ Boundary conditions
 Choosing of materials
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Window\
-<img src="a.png" height = 250px width = 200px>\
+<img src="CAPTURE.png" height = 250px width = 200px>\
  *Figure 2. Window material*
 - External wall\
 <img src="b.png" height = 250px width = 200px>\
