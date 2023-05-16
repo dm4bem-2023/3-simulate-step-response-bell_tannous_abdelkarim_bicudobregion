@@ -104,11 +104,11 @@ Keeping this is mind, the following matrix equation is written:\
 $$\begin{bmatrix}
 G^-1 & A\\
 -A^T & sC
-\end{bmatrix}$$ *
+\end{bmatrix}$$ 
 $$\begin{bmatrix}
 q\\
 theta
-\end{bmatrix}$$ =
+\end{bmatrix}$$ 
 $$\begin{bmatrix}
 b\\
 f
