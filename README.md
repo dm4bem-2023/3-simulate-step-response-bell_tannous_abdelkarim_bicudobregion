@@ -108,7 +108,7 @@ G^-1 & A\\
 
 $$\begin{bmatrix}
 q\\
-theta
+\theta
 \end{bmatrix}$$
 
 $$\begin{bmatrix}
