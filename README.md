@@ -113,49 +113,6 @@ f
 \end{bmatrix} \right ]$$
 
 
-\left \begin{bmatrix}
-G^-1 & A\\
--A^T & sC
-\end{bmatrix}
- \right \left [ \begin{bmatrix}
-q\\
-\theta
-\end{bmatrix} \right ]= \left [ \begin{bmatrix}
-b\\
-f
-\end{bmatrix} \right ]$$
-
-$$\begin{bmatrix}
-G^-1 & A\\
--A^T & sC
-\end{bmatrix}$$
-
-$$\begin{bmatrix}
-q\\
-\theta
-\end{bmatrix}$$
-
-$$
-$$\begin{bmatrix}
-b\\
-f
-\end{bmatrix}$$
-
-\begin{bmatrix}
-G^-1 & A\\
--A^T & sC
-\end{bmatrix}
-$$\begin{bmatrix}
-q\\
-\theta
-\end{bmatrix}$$
-=   
-\begin{bmatrix}
-b\\
-f
-\end{bmatrix}
-$$
-<img src="CodeCogsEqn.png" height = 60px width = 170px>\
 
 Finally,\
 **$C \cdot \theta’$ = $-A^TGA\theta$ + $A^TGb + f$**
