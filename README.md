@@ -101,6 +101,18 @@ $-A^T \cdot q + sC\theta = f$
 
 Keeping this is mind, the following matrix equation is written:
 
+\left [ \begin{bmatrix}
+G^-1 & A\\
+-A^T & sC
+\end{bmatrix}
+ \right ]\left [ \begin{bmatrix}
+q\\
+\theta
+\end{bmatrix} \right ]= \left [ \begin{bmatrix}
+b\\
+f
+\end{bmatrix} \right ]
+
 $$\begin{bmatrix}
 G^-1 & A\\
 -A^T & sC
