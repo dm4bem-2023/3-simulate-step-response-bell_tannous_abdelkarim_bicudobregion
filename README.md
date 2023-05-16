@@ -103,16 +103,17 @@ Keeping this is mind, the following matrix equation is written:
 $\begin{bmatrix}
 G^-1 & A\\
 -A^T & sC
-\end{bmatrix}$$
-$$\begin{bmatrix}
+\end{bmatrix}$
+*
+$\begin{bmatrix}
 q\\
-\theta
-\end{bmatrix}}$$
-
-$$\begin{bmatrix}
+theta
+\end{bmatrix}$
+=
+$\begin{bmatrix}
 b\\
 f
-\end{bmatrix}$$
+\end{bmatrix}$
 
 
 Finally, 
