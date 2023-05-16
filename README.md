@@ -93,12 +93,12 @@ The following equations will then be used to solve the model:
 $e = -A\theta + b$\
 $q = G\cdot e$\
 $C\theta’ = A^T \cdot q + f$\
-$\downarrow
+$\downarrow$
 $G^-1 \cdot q + A\theta = b$\
 $-A^T \cdot q + sC\theta = f$\
-$\downarrow
+$\downarrow$
 
-$\downarrow
+$\downarrow$
 **$C \cdot \theta’$ = $-A^TGA\theta$ + $A^TGb + f$**
 
 
