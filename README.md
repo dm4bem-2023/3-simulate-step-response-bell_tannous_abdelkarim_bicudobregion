@@ -115,10 +115,12 @@ $$\begin{bmatrix}
 b\\
 f
 \end{bmatrix}$$
+
 <p align="center">
 <img src="eq.png" height = 100px width = 175px />
 </p>
-Finally, 
+
+Finally,\
 **$C \cdot \theta’$ = $-A^TGA\theta$ + $A^TGb + f$**
 
 
