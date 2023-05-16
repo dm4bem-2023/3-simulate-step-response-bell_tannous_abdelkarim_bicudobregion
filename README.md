@@ -16,7 +16,7 @@ Apartment sizing
 The apartment analyzed is in the following figure and contains 2 rooms, which are linked by a door. Each room contains a window and room 1 also contains a door.
 
 <img src="apartment.png" height = 250px width = 250px>
-*Figure 1. Apartment analyzed
+*Figure 1. Apartment analyzed*
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Boundary conditions
@@ -33,10 +33,13 @@ Boundary conditions
 Choosing of materials
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Window\
+- <img src="a.png" height = 250px width = 200px>
  *Figure 2. Window material*
 - External wall\
+- <img src="b.png" height = 250px width = 200px>
 *Figure 3. External wall material*
 - Internal wall\
+- <img src="c.png" height = 250px width = 200px>
 *Figure 4. Internal wall material*
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
