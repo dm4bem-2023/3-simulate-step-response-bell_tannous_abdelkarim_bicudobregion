@@ -105,12 +105,13 @@ $$\begin{bmatrix}
 G^-1 & A\\
 -A^T & sC
 \end{bmatrix}$$
-begin{bmatrix}
+$$\begin{bmatrix}
 q\\
 theta
 \end{bmatrix}$$
 
 =
+
 $$\begin{bmatrix}
 b\\
 f
